@@ -1,0 +1,4 @@
+first: django MTV架构
+second: views.py
+third: model.py
+four: templates
